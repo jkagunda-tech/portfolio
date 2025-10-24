@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally 👇
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/jkagunds-tech/jortfolio.git
+git clone https://github.com/jkagunds-tech/portfolio.git
 cd kimani_portfolio `
 
 Make sure you have Node.js (v18 or above) installed.
