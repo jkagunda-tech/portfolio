@@ -150,7 +150,7 @@ const experiences = [
     company_name: "Orbit Media Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - May 2023",
+    date: "Jun 2022 - Aug 2023",
     points: [
       "Skills: SEO, Google Analytics, Content Writing, Social Media Strategy",
       "Managed company’s online campaigns and increased engagement by 60%.",
@@ -164,7 +164,7 @@ const experiences = [
     company_name: "FairPrice Enterprises Ltd",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - May 2024",
+    date: "Oct 2023 - May 2024",
     points: [
       "Managed a diverse team across sales, logistics, and customer relations",
       "Deployed data-driven decision-making tools using Excel, CRM software, and Power BI to track sales performance and consumer trends.",
@@ -221,7 +221,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://onedrive.live.com/:w:/g/personal/3D5D06C9DDF5FDBC/ERqnHgpFspZPkCrwKZuNIHMBfjsFi-wDQg0iykCViCZuXQ?resid=3D5D06C9DDF5FDBC!s0a1ea71ab2454f96902af0299b8d2073&ithint=file%2Cdocx&e=4%3Arl3G3I&sharingv2=true&fromShare=true&at=9&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8zZDVkMDZjOWRkZjVmZGJjL0VScW5IZ3BGc3BaUGtDcndLWnVOSUhNQmZqc0ZpLXdEUWcwaXlrQ1ZpQ1p1WFE_ZT00OnJsM0czSSZzaGFyaW5ndjI9dHJ1ZSZmcm9tU2hhcmU9dHJ1ZSZhdD05",
   },
   {
     name: "3D Portfolio Experience",
@@ -242,7 +242,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://onedrive.live.com/:w:/g/personal/3D5D06C9DDF5FDBC/ERqnHgpFspZPkCrwKZuNIHMBfjsFi-wDQg0iykCViCZuXQ?resid=3D5D06C9DDF5FDBC!s0a1ea71ab2454f96902af0299b8d2073&ithint=file%2Cdocx&e=4%3Arl3G3I&sharingv2=true&fromShare=true&at=9&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8zZDVkMDZjOWRkZjVmZGJjL0VScW5IZ3BGc3BaUGtDcndLWnVOSUhNQmZqc0ZpLXdEUWcwaXlrQ1ZpQ1p1WFE_ZT00OnJsM0czSSZzaGFyaW5ndjI9dHJ1ZSZmcm9tU2hhcmU9dHJ1ZSZhdD05",
   },
   {
     name: "Market Vision",
@@ -263,7 +263,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://onedrive.live.com/:w:/g/personal/3D5D06C9DDF5FDBC/ERqnHgpFspZPkCrwKZuNIHMBfjsFi-wDQg0iykCViCZuXQ?resid=3D5D06C9DDF5FDBC!s0a1ea71ab2454f96902af0299b8d2073&ithint=file%2Cdocx&e=4%3Arl3G3I&sharingv2=true&fromShare=true&at=9&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8zZDVkMDZjOWRkZjVmZGJjL0VScW5IZ3BGc3BaUGtDcndLWnVOSUhNQmZqc0ZpLXdEUWcwaXlrQ1ZpQ1p1WFE_ZT00OnJsM0czSSZzaGFyaW5ndjI9dHJ1ZSZmcm9tU2hhcmU9dHJ1ZSZhdD05",
   },
 ];
 
