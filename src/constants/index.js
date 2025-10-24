@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "IT Support & Systems Technician",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Frontend Developer (Freelance & Remote)",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Digital Marketing Associate",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Business Manager",
     icon: creator,
   },
 ];
@@ -116,55 +116,61 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "IT Support & Systems Technician ",
+    company_name: "Safaricom",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Skills: Networking, troubleshooting, customer support, system deployment.",
+      "Provided first-level tech support for over 200 clients.",
+      "Installed and configured computer systems and software updates.",
+      "Worked with LAN/WAN setups, routers, and firewalls.",
+      "Documented tech issues and optimized response procedures.",
+      "Tools used: Windows Server, Linux CLI, Cisco Packet Tracer.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Frontend Developer (Freelance & Remote)",
+    company_name: "Upwork / Fiverr",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Skills: React.js, JavaScript (ES6+), TailwindCSS, Git, Responsive UI/UX Design",
+      "Built and maintained websites and landing pages for small businesses.",
+      "Collaborated with designers to implement modern, responsive designs.",
+      "Integrated APIs and designed dynamic user interfaces.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked directly with clients across different time zones, managing revisions and project deliveries.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Digital Marketing Associate",
+    company_name: "Orbit Media Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2022 - May 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Skills: SEO, Google Analytics, Content Writing, Social Media Strategy",
+      "Managed company’s online campaigns and increased engagement by 60%.",
+      "Designed and implemented automated email marketing systems.",
+      "Monitored analytics and reported monthly KPIs.",
+      "Created blog content optimized for search engines.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Business Manager",
+    company_name: "FairPrice Enterprises Ltd",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2023 - May 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Managed a diverse team across sales, logistics, and customer relations",
+      "Deployed data-driven decision-making tools using Excel, CRM software, and Power BI to track sales performance and consumer trends.",
+      "Oversaw financial reporting, budgeting, and quarterly forecasts.",
+      "Spearheaded strategic planning and daily operations for a multi-sector business unit, driving a 35% revenue growth",
+      "Key Skills: Business Strategy · Operations Management Negotiation · CRM Systems · Team Management · Market Expansion",
     ],
   },
 ];
@@ -172,42 +178,41 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Joseph proved me wrong.",
     name: "Sara Lee",
-    designation: "CFO",
+    designation: "Operations Director",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "Joseph helped us bring our small business online from scratch. His ability to simplify tech and make it work for real business goals is incredible. Highly professional and future-focused.",
+    name: "Chris Joshua",
+    designation: "Sales Representative",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "Joseph is a results-driven leader with an exceptional grasp of both people and numbers. His strategies consistently turned goals into tangible growth!",
+    name: "Mary Wanjiru",
+    designation: "CFO",
+    company: "FairPrice Enterprises Ltd",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Sales Insight Dashboard",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "An interactive analytics platform that visualizes sales trends and performance metrics, helping businesses make informed decisions with real-time data.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
@@ -219,20 +224,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "3D Portfolio Experience",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A fully interactive personal portfolio built with 3D models and smooth animations to showcase skills, projects, and achievements in an engaging way.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "threejs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "vite",
         color: "pink-text-gradient",
       },
     ],
@@ -240,20 +245,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Market Vision",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A market analytics web app that monitors business trends and forecasts performance through data visualization and AI insights.",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "chartjs",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
