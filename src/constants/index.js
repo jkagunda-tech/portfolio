@@ -150,7 +150,7 @@ const experiences = [
     company_name: "Orbit Media Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - May 2023",
+    date: "Jun 2022 - Aug 2023",
     points: [
       "Skills: SEO, Google Analytics, Content Writing, Social Media Strategy",
       "Managed company’s online campaigns and increased engagement by 60%.",
@@ -164,7 +164,7 @@ const experiences = [
     company_name: "FairPrice Enterprises Ltd",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - May 2024",
+    date: "Oct 2023 - May 2024",
     points: [
       "Managed a diverse team across sales, logistics, and customer relations",
       "Deployed data-driven decision-making tools using Excel, CRM software, and Power BI to track sales performance and consumer trends.",
