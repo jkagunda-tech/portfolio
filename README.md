@@ -29,6 +29,9 @@ It’s built for performance, personality, and storytelling — combining code p
 
 Follow these steps to set up and run the project locally 👇
 
+## A review of the live webpage
+https://portfolio-git-master-josephs-project.vercel.app?_vercel_share=HsMCHQ2I7IuW9O0ERqEGfvq7oTmejNua
+
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/jkagunds-tech/portfolio.git
